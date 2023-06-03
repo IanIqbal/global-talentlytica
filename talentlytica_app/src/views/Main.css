@@ -1,0 +1,48 @@
+#header {
+    display: flex;
+    justify-content: center;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+}
+
+#block-penilaian {
+    margin-left: 100px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+label {
+    margin-right: 80px;
+}
+button{
+    border-radius: 12px;
+    border-color: #89CFF0;
+
+}
+#button-section{
+    display: flex;
+    justify-content: center;
+}
+select {
+    margin-right: 130px;
+}
+
+#json-output{
+    margin: 50px;
+    border-style: solid;
+    text-align: center;
+}
+
+.student-row{
+    margin-bottom: 10px;
+    padding: 5px;
+    border-style: solid;
+    border-color: #89CFF0;
+    border-width: 3px;
+    border-radius: 5px;
+}
